@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "Love to Hate Me",
+  "base_artist": "BLACKPINK",
+  "createdAt": "2026-02-13T08:05:47.632513Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Love to Hate Me",
+      "artist": "BLACKPINK",
+      "has_synced": false,
+      "path": "select/01_Love_to_Hate_Me_BLACKPINK.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Love to Hate Me",
+      "artist": "BLACKPINK",
+      "has_synced": true,
+      "path": "select/02_Love_to_Hate_Me_BLACKPINK.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Love To Hate Me",
+      "artist": "BLACKPINK",
+      "has_synced": true,
+      "path": "select/03_Love_To_Hate_Me_BLACKPINK.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "BLACKPINK Love To Hate Me",
+      "artist": "Jaeguchi",
+      "has_synced": true,
+      "path": "select/04_BLACKPINK_Love_To_Hate_Me_Jaeguchi.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Love To Hate Me",
+      "artist": "BLɅϽKPIИK",
+      "has_synced": true,
+      "path": "select/05_Love_To_Hate_Me_BLɅϽKPIИK.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Love To Hate Me (Instrumental)",
+      "artist": "BLACKPINK",
+      "has_synced": true,
+      "path": "select/06_Love_To_Hate_Me_(Instrumental)_BLACKPINK.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Love To Hate Me (Instrumental)",
+      "artist": "BLACKPINK",
+      "has_synced": true,
+      "path": "select/07_Love_To_Hate_Me_(Instrumental)_BLACKPINK.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Love To Hate Me",
+      "artist": "블랙핑크 (BLΛƆKPIИK)",
+      "has_synced": true,
+      "path": "select/08_Love_To_Hate_Me_블랙핑크_(BLΛƆKPIИK).lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Love To Hate Me",
+      "artist": "BLACKPINK",
+      "has_synced": true,
+      "path": "select/09_Love_To_Hate_Me_BLACKPINK.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Love To Hate Me",
+      "artist": "Dinosaur Pile Up",
+      "has_synced": true,
+      "path": "select/10_Love_To_Hate_Me_Dinosaur_Pile_Up.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Love to Hate Me",
+      "artist": "Dinosaur Pile‐Up",
+      "has_synced": true,
+      "path": "select/11_Love_to_Hate_Me_Dinosaur_Pile‐Up.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Love To Hate Me",
+      "artist": "BLACKPINK",
+      "has_synced": true,
+      "path": "select/12_Love_To_Hate_Me_BLACKPINK.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Love To Hate Me",
+      "artist": "BLACKPINK",
+      "has_synced": false,
+      "path": "select/pl_01_Love_To_Hate_Me_BLACKPINK.txt"
+    }
+  ]
+}
